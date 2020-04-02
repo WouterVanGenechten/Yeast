@@ -131,4 +131,8 @@ dmypy.json
 *.bak
 
 #Database
+<<<<<<< HEAD
 *.sglite3
+=======
+*.sqlite3
+>>>>>>> 376388accd1fac415e91ed3e387e0d1f530d1b59
